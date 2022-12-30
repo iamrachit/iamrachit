@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://github.com/iamrachit">
+  <a href="https://www.linkedin.com/in/rachit-s-garg/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -27,7 +27,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-iamrachit-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/iamrachit)
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-iamrachit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rachit-s-garg/)
 
 
 <!---
