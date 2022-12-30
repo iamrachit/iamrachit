@@ -8,6 +8,8 @@
   </a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=iamrachit&style=flat-square&color=blue" alt=""/>
+
 - 👋 Hi, I’m @iamrachit
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
