@@ -23,11 +23,10 @@
 
 ### 👨‍💻 About Me :
 
-- 👋 Hi, I’m @iamrachit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-iamrachit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rachit-s-garg/)
+- 👋 Hi, I’m @iamrachit aka Rachit S Garg. 
+- 👀 I’m interested in artificial intelligence and cybersecurity.
+- 💞️ I’m looking to collaborate on data science and cybersecurity related projects.
+- 📫 How to reach me   [![Linkedin Badge](https://img.shields.io/badge/-iamrachit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rachit-s-garg/)
 
 
 <!---
