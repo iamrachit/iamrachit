@@ -8,7 +8,9 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=iamrachit&style=flat-square&color=blue" alt=""/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamrachit&style=flat-square&color=blue" alt=""/>
+</div>
 
 - 👋 Hi, I’m @iamrachit
 - 👀 I’m interested in ...
