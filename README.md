@@ -34,6 +34,9 @@ https://github-readme-streak-stats.herokuapp.com/?user=iamrachit
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamrachit&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrachit&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!---
 iamrachit/iamrachit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
