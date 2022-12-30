@@ -21,7 +21,7 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" height="300"/>
 </div>
 
-### :men_technologist: About Me :
+### 👨‍💻: About Me :
 
 - 👋 Hi, I’m @iamrachit
 - 👀 I’m interested in ...
