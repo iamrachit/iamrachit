@@ -14,7 +14,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/a74pSGN7wvT7a/giphy.gif" width="100px"/>
-  <img src="https://media.giphy.com/media/iJUhSOR9agCiXPFBqu/giphy.gif" width="80px"/>
+  <img src="https://media.giphy.com/media/iJUhSOR9agCiXPFBqu/giphy.gif" width="60px"/>
   <img src="https://media.giphy.com/media/a74pSGN7wvT7a/giphy.gif" width="100px"/>
 </h1>
 
