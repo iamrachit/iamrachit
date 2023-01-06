@@ -14,9 +14,10 @@
 
 <h1 align="center">
   Holla 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
+  <img src="https://media.giphy.com/media/a74pSGN7wvT7a/giphy.gif" width="50px"/>
 </h1>
-
+https://media.giphy.com/media/a74pSGN7wvT7a/giphy.gif
+https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="900" height="300"/>
 </div>
