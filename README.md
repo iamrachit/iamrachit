@@ -19,7 +19,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="900" height="450"/>
+  <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width= auto height= auto/>
 </div>
 
 ### 👨‍💻 About Me :
