@@ -13,6 +13,7 @@
 </div>
 
 <h1 align="center">
+  <img src="https://media.giphy.com/media/a74pSGN7wvT7a/giphy.gif" width="80px"/>
   Holla 
   <img src="https://media.giphy.com/media/a74pSGN7wvT7a/giphy.gif" width="80px"/>
 </h1>
