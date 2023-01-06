@@ -4,7 +4,7 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rachit-s-garg/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-hacker?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
@@ -25,7 +25,7 @@
 - 👋 Hi, I’m @iamrachit aka Rachit S Garg. 
 - 👀 I’m interested in artificial intelligence and cybersecurity.
 - 💞️ I’m looking to collaborate on data science and cybersecurity related projects.
-- 📫 How to reach me        [![Linkedin Badge](https://img.shields.io/badge/-iamrachit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rachit-s-garg/)
+- 📫 How to reach me        [![Linkedin Badge](https://img.shields.io/badge/-iamrachit-hacker?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rachit-s-garg/)
 
 ### :fire: My Stats :
 
