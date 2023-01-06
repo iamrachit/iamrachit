@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamrachit&style=flat-square&color=green" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=iamrachit&style=flat-square&color=brightgreen" alt=""/>
 </div>
 
 <h1 align="center">
