@@ -20,6 +20,7 @@
   <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width= auto height= auto/>
 </div>
 
+
 🚀 **Welcome to the DevOps Galaxy!** 🌌
 
 "Continuous Integration, Continuous Deployment, Continuous Improvement, and a constant craving for Innovation!" 🚀
@@ -47,7 +48,7 @@ Hey there! I'm [Your Name], a passionate DevOps enthusiast on a mission to bring
 
 **Let's Connect!** 👋
 
-Looking to collaborate on DevOps-driven projects, discuss exciting innovations, or simply geek out over the latest tech trends? Reach out to me via [Email](mailto:rachit.works4u@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/rachit-s-garg/))!
+Looking to collaborate on DevOps-driven projects, discuss exciting innovations, or simply geek out over the latest tech trends? Reach out to me via [Email](mailto:rachit.works4u@gmail.com)
 
 **Final Words** 💬
 
