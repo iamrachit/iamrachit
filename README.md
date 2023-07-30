@@ -16,10 +16,6 @@
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="120px"/>
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width= auto height= auto/>
-</div>
-
 
 🚀 **Welcome to the DevOps Galaxy!** 🌌
 
