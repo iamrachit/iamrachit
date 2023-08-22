@@ -25,7 +25,7 @@
 
 Hey there! I'm [Your Name], a passionate DevOps enthusiast on a mission to bring harmony between development and operations. As a firm believer in the power of automation and collaboration, I strive to cultivate a culture of efficiency and agility in every project I touch.
 
-**My DevOps Mantra** 📜
+**My DevOps Mantra**📜
 
 > "Automate everything you can, embrace the cloud, and let collaboration be the guiding light in your DevOps journey." 💡
 
