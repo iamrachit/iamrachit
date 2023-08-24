@@ -16,7 +16,17 @@
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="120px"/>
 </h1>
 
+## About Me
 
+I'm passionate about all things data! From crunching numbers to deriving meaningful insights, I love the entire process.
+
+- 📊 Data Analysis
+- 📈 Data Visualization
+- 📉 Machine Learning
+- 🧠 Deep Learning
+- 📚 Lifelong Learner
+
+Happy coding and exploring the world of data!
 
 ### :fire: My Stats :
 
